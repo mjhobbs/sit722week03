@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to my website showing a collection of postgraduate units offered in the School of IT at Deakin University.</p>
+
+    <table>
+      <tr>
+        <th>Code</th>
+        <th>Title</th>
+        <th>Description</th>
+      </tr>
+      <% unitCodeList.forEach((unit) => { %>
+        <tr>
+          <td>
+            <%- unit.code %>
+          </td>
+          <td>
+            <%- unit.title %>
+          </td>
+          <td>
+            <%- unit.description %>
+          </td>
+        </tr>
+      <% }); %>
+    </table>
+  </body>
+</html>

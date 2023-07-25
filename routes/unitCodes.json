@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "code": "SIT722",
+        "title": "Software Deployment and Operation",
+        "description": "The enterprise systems of many modern organisations requirement continuous operation while also being updated and enhanced, this practice is also referred to as DevOps or the combination of software development and information-technology development. To successfully achieve this objective many issues need to be addressed, with the adoption of appropriate development and operation methodologies. Through active learning classes, this unit introduces students to the methodologies, practices and technologies to support continuous operation of modern enterprise systems."
+    },
+    {
+        "id": 2,
+        "code": "SIT774",
+        "title": "Web Technologies and Development",
+        "description": "Web technologies and the development of web applications are an integral part of the way contemporary applications are built. This unit is a part of the foundation units in the postgraduate Information Technology courses at Deakin, in which students will learn to develop web applications using latest technologies. Learning experiences in this unit will help students understand how web applications work and will give students the opportunity to conceptualise and implement web related solutions for a range of scenarios. The solutions student develop in this unit will take into account client and server side programming requirements and appropriate techniques. Students will build on learning from the associated programming and database units by learning how to use client and server side programming language to create small data driven web applications."
+    },
+    {
+        "id": 3,
+        "code": "SIT723",
+        "title": "Research Training and Project",
+        "description": "Research and development skills and abilities are highly in-demand in the IT industry. In SIT723, students will have the opportunity to embark on a research or practice project and develop skills and abilities for informed evidence-based practice. Through research training and mentoring, the unit offers students the opportunity to explore an IT area in depth, and define their own research direction and scope. Students will develop the skills to produce literature reviews, project proposals, and design experiments using the scientific method. Students will learn how to evaluate academic research, gain the confidence to prepare publications and develop skills to become independent researchers."
+    },
+    {
+        "id": 1,
+        "code": "SIT787",
+        "title": "Mathematics for Artificial Intelligence",
+        "description": "This unit provides the fundamental mathematical and statistical knowledge to understand important concepts in Artificial Intelligence (AI) and Data Science (DS). The contents of the unit are selected carefully to cover the most frequent mathematical and statistical tools and techniques to help students easily learn technical topics in AI and DS, enabling students to obtain enough experience to expand their knowledge into new directions if required. The unit builds a strong bridge between simple and core mathematical and statistical concepts and advanced techniques that are used in developing modern algorithms in AI and DS."
+    }
+]
