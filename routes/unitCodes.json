@@ -24,9 +24,16 @@
         "description": "This unit provides the fundamental mathematical and statistical knowledge to understand important concepts in Artificial Intelligence (AI) and Data Science (DS). The contents of the unit are selected carefully to cover the most frequent mathematical and statistical tools and techniques to help students easily learn technical topics in AI and DS, enabling students to obtain enough experience to expand their knowledge into new directions if required. The unit builds a strong bridge between simple and core mathematical and statistical concepts and advanced techniques that are used in developing modern algorithms in AI and DS."
     },
     {
+
+        "id": 6,
+        "code": "SIT718",
+        "title": "COMPUTER NETWORKS AND SECURITY",
+        "description": "Computer networks are becoming fundamental in modern life, providing a platform for the delivery of health, education, commerce, and entertainment.  In recent years, computer networks have progressively replaced other networks such as voice and video, replaced physical media for news and entertainment, and provided the platform for new important applications in the areas of the Internet of Things and Cloud Computing. "
+
         "id": 5,
         "code": "SIT727",
         "title": "Cloud Automation Technologies",
         "description": "Traditional management of IT infrastructure involved careful coordination between experts such as systems, networks, databases, security, and applications in a highly manual and error prone process of developing, deploying, updating, and managing the services of a network.  As the number and complexity of network services deployed in organisations has accelerated over the years, the traditional approach is no longer sustainable.  Automation is a key feature of modern data centres, achieved through the application of virtualization and cloud technologies, which are controlled through the various APIs that they expose."
+
     }
 ]
