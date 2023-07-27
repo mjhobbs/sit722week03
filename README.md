@@ -1,4 +1,4 @@
-# SIT722 Week03 Test Project
+# SIT722 Week03 Demo Project
 
 In order to use the boilerplate you will need NodeJS to be installed on your system.
 
